@@ -1,3 +1,5 @@
+//This program calculates the income tax which you have to pay
+
 #include<stdio.h>
 
 int main()
